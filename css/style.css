@@ -60,9 +60,11 @@ img:hover {
 }
 
 .med {
+  display: flex;
   width: 100%;
 }
 
 .large {
+  display: flex;
   width: 100%;
 }
