@@ -57,15 +57,15 @@ img:hover {
 .small {
   display: flex;
   width: 32%;
-  height: 32%;
+
 }
 
 .med {
   width: 66%;
-  height: 66%;
+
 }
 
 .large {
   width: 100%;
-  height: 100%;
+
 }
