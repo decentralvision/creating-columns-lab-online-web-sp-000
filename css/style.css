@@ -61,7 +61,7 @@ img:hover {
 .med {
   width: 66%;
   grid-column-start: 2;
-  grid-column-end: 5;
+  grid-column-end: 6;
 }
 
 .large {
