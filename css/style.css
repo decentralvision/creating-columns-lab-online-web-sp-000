@@ -51,7 +51,7 @@ img:hover {
   flex: 1;
 }
 .container {
-
+width: fit-content;
   display: flex;
 }
 /* create your tile classes! we recommend .small .med .large */
