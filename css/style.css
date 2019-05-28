@@ -57,11 +57,13 @@ img:hover {
 /* create your tile classes! we recommend .small .med .large */
 .small {
   grid-column: span 1;
+  grid-row: span 1;
   width: 100%;
 }
 
 .med {
   grid-column: span 2;
+  grid-row: span 2;
   width: 100%;
 }
 
