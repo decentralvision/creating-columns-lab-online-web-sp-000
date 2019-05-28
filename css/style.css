@@ -61,6 +61,7 @@ img:hover {
 }
 
 .med {
+    display: flex;
   width: 66%;
 
 }
