@@ -51,7 +51,7 @@ img:hover {
   box-sizing: border-box;
 }
 
-.col {
+.column {
   display: inline-block;
   width: 32%;
   vertical-align: top;
