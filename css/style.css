@@ -60,6 +60,8 @@ img:hover {
 
 .med {
   width: 2fr;
+  grid-column-start: 1;
+grid-column-end: 3;
 }
 
 .large {
