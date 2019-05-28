@@ -51,11 +51,11 @@ img:hover {
   box-sizing: border-box;
 }
 
+.container {
+    display: flex;
+}
+
 .column {
-  display: inline-block;
-  width: 32%;
-  vertical-align: top;
-  border: 1px solid;
-  padding: 10px;
+  flex: 1;
 }
 /* create your tile classes! we recommend .small .med .large */
